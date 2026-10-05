@@ -1,0 +1,7 @@
+[
+    {"id": 1, "title": "Wireless Headphones", "price": "$99.99", "description": "High-quality noise-canceling wireless headphones."},
+    {"id": 2, "title": "Smartwatch", "price": "$199.99", "description": "Track your fitness, heart rate, and notifications on the go."},
+    {"id": 3, "title": "Running Shoes", "price": "$79.99", "description": "Lightweight and comfortable shoes for everyday running."},
+    {"id": 4, "title": "Mechanical Keyboard", "price": "$129.99", "description": "RGB backlit mechanical keyboard with tactile switches."},
+    {"id": 5, "title": "Portable Charger", "price": "$49.99", "description": "10000mAh fast-charging power bank for all your devices."}
+]
